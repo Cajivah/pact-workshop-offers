@@ -1,4 +1,4 @@
-package com.jmalyjasiak.pact;
+package com.jmalyjasiak.pactworkshop.offer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
